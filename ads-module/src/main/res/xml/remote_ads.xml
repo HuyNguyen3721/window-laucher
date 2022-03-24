@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+
+    <entry>
+        <key>enable_start_app_ads</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>enable_overlay_fb_ads</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>time_show_ads</key>
+        <value>40</value>
+    </entry>
+
+    <entry>
+        <key>max_show_day</key>
+        <value>50</value>
+    </entry>
+
+
+    <entry>
+        <key>admob_inter_id</key>
+        <value>ca-app-pub-5025628276811480/2962163239</value>
+    </entry>
+    <entry>
+        <key>admob_open_id</key>
+        <value>ca-app-pub-5025628276811480/5572347847</value>
+    </entry>
+    <entry>
+        <key>admob_banner_id</key>
+        <value>ca-app-pub-5025628276811480/3728449996</value>
+    </entry>
+    <entry>
+        <key>admob_native_id</key>
+        <value>ca-app-pub-5025628276811480/1734849659</value>
+    </entry>
+
+
+    <entry>
+        <key>adx_banner_id</key>
+        <value>/112517806,22572584312/18007181629282193</value>
+    </entry>
+    <entry>
+        <key>adx_inter_id</key>
+        <value>/112517806,22572584312/32456781629282203</value>
+    </entry>
+    <entry>
+        <key>adx_native_id</key>
+        <value>/112517806,22572584312/51802921629282224</value>
+    </entry>
+
+    <entry>
+        <key>fb_inter_id</key>
+        <value>1024064168411132_1024067438410805</value>
+    </entry>
+    <entry>
+        <key>fb_banner_id</key>
+        <value>1024064168411132_1024066698410879</value>
+
+    </entry>
+    <entry>
+        <key>fb_native_id</key>
+        <value>xxx</value>
+    </entry>
+
+
+    <entry>
+        <key>applovin_inter_id</key>
+        <value>384284331cc8c70c</value>
+    </entry>
+    <entry>
+        <key>applovin_banner_id</key>
+        <value>058e79cd61e779cf</value>
+    </entry>
+    <entry>
+        <key>applovin_rewarded_id</key>
+        <value>8a24e5b04e6fdf66</value>
+    </entry>
+
+    <entry>
+        <key>count_click_banner</key>
+        <value>2</value>
+    </entry>
+
+    <entry>
+        <key>current_version</key>
+        <value>1</value>
+    </entry>
+    
+    <entry>
+        <key>master_ads_network</key>
+        <value>admob,applovin,adx</value>
+    </entry>
+    <entry>
+        <key>xxxxxxxxxxx</key>
+        <value>client</value>
+    </entry>
+</defaultsMap>

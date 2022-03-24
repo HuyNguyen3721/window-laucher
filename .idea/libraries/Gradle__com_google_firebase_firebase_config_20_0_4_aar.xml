@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-config:20.0.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/06bf43b6dc576ba1251cea40d892a1cc/firebase-config-20.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/06bf43b6dc576ba1251cea40d892a1cc/firebase-config-20.0.4/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/06bf43b6dc576ba1251cea40d892a1cc/firebase-config-20.0.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/35eebf80d701c13800b38407243af7e1/firebase-config-20.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/35eebf80d701c13800b38407243af7e1/firebase-config-20.0.4/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/35eebf80d701c13800b38407243af7e1/firebase-config-20.0.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a075fe904e4ce6b4e674fc20a639b383/firebase-config-20.0.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a075fe904e4ce6b4e674fc20a639b383/firebase-config-20.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a075fe904e4ce6b4e674fc20a639b383/firebase-config-20.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5d97144c85e37aaa43eb56254c2f624c/firebase-config-20.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5d97144c85e37aaa43eb56254c2f624c/firebase-config-20.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5d97144c85e37aaa43eb56254c2f624c/firebase-config-20.0.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0b2a6884348fe4571d99436aed3c11e0/firebase-config-20.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0b2a6884348fe4571d99436aed3c11e0/firebase-config-20.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0b2a6884348fe4571d99436aed3c11e0/firebase-config-20.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/20.0.4/5a4f84934e3008743a4ef760bc46cd9a1e0136e1/firebase-config-20.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-config/20.0.4/a2c58f4d08195c2ef13ac9355f967e7964b4d1b4/firebase-config-20.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

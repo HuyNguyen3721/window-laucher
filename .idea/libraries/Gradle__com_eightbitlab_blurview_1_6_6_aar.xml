@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eightbitlab:blurview:1.6.6@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2f8c2fe9e8e0001328f7ffde62a879f4/blurview-1.6.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2f8c2fe9e8e0001328f7ffde62a879f4/blurview-1.6.6/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2f8c2fe9e8e0001328f7ffde62a879f4/blurview-1.6.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/e435d0efef17de7aeb33852a2ad74b4b/blurview-1.6.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/e435d0efef17de7aeb33852a2ad74b4b/blurview-1.6.6/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/e435d0efef17de7aeb33852a2ad74b4b/blurview-1.6.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/949ea9b4b6079038996be59551789c29/blurview-1.6.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/949ea9b4b6079038996be59551789c29/blurview-1.6.6/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/949ea9b4b6079038996be59551789c29/blurview-1.6.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/78c999ceb2b50559f4b1a8b7ed288264/blurview-1.6.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/78c999ceb2b50559f4b1a8b7ed288264/blurview-1.6.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/78c999ceb2b50559f4b1a8b7ed288264/blurview-1.6.6/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b00084dc86b18541bc273a5ebc6a6a74/blurview-1.6.6/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b00084dc86b18541bc273a5ebc6a6a74/blurview-1.6.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b00084dc86b18541bc273a5ebc6a6a74/blurview-1.6.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.eightbitlab/blurview/1.6.6/2f7ee16f6111ac64fc39dd1e82200acfdbf1ea6d/blurview-1.6.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.eightbitlab/blurview/1.6.6/abea057ded2cf2f1698bf6d2154e055fb62d510b/blurview-1.6.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

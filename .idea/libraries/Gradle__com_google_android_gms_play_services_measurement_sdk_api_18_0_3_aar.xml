@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:18.0.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2bd8a9308d51aeea04c6d182dd858d10/play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2bd8a9308d51aeea04c6d182dd858d10/play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2bd8a9308d51aeea04c6d182dd858d10/play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/c1c314c96e0f01f4c6ca3fb556f8be3f/play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/c1c314c96e0f01f4c6ca3fb556f8be3f/play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/c1c314c96e0f01f4c6ca3fb556f8be3f/play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0e02bad27f7fb223ac70f6fb8e33f394/play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0e02bad27f7fb223ac70f6fb8e33f394/play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0e02bad27f7fb223ac70f6fb8e33f394/play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/cb5d2386f0e2e85381844af500f86a06/play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/cb5d2386f0e2e85381844af500f86a06/play-services-measurement-sdk-api-18.0.3/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/cb5d2386f0e2e85381844af500f86a06/play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/7e7692ff343a3266fec778c28960de4d/play-services-measurement-sdk-api-18.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/7e7692ff343a3266fec778c28960de4d/play-services-measurement-sdk-api-18.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/7e7692ff343a3266fec778c28960de4d/play-services-measurement-sdk-api-18.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/18.0.3/c0d58b8efa926b2c607984c54fb3d274490badd1/play-services-measurement-sdk-api-18.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

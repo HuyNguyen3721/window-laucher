@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:facebook:6.6.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/22a675e24b2419420caadbc81b1cafea/facebook-6.6.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0538d2264080975b2b40eba10fd8577b/facebook-6.6.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/66e9cdf5df6e53b609827ca31ff4d7de/facebook-6.6.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6ca9c0f9448f9a24370935997a82ba8c/facebook-6.6.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/9fb2eefdc28a7ee174ccd942b150283e/facebook-6.6.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/22a675e24b2419420caadbc81b1cafea/facebook-6.6.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/22a675e24b2419420caadbc81b1cafea/facebook-6.6.0.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/22a675e24b2419420caadbc81b1cafea/facebook-6.6.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0538d2264080975b2b40eba10fd8577b/facebook-6.6.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0538d2264080975b2b40eba10fd8577b/facebook-6.6.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0538d2264080975b2b40eba10fd8577b/facebook-6.6.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/66e9cdf5df6e53b609827ca31ff4d7de/facebook-6.6.0.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/66e9cdf5df6e53b609827ca31ff4d7de/facebook-6.6.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/66e9cdf5df6e53b609827ca31ff4d7de/facebook-6.6.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6ca9c0f9448f9a24370935997a82ba8c/facebook-6.6.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6ca9c0f9448f9a24370935997a82ba8c/facebook-6.6.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6ca9c0f9448f9a24370935997a82ba8c/facebook-6.6.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/9fb2eefdc28a7ee174ccd942b150283e/facebook-6.6.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/9fb2eefdc28a7ee174ccd942b150283e/facebook-6.6.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/9fb2eefdc28a7ee174ccd942b150283e/facebook-6.6.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/facebook/6.6.0.0/e9f162e89429b46c10d0bfdbc3d891c1ac123477/facebook-6.6.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color primaryFont
+drawable dummy_image
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_browse
+id btn_confirm
+id et_height
+id et_image
+id et_text
+id et_width
+id left_bound
+id right_bound
+id rl_grid
+id spinner_color_palette
+layout fragment_customize_item
+layout fragment_page
+layout item_launcher
+layout slider_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme

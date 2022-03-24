@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <HorizontalScrollView
+            android:id="@+id/scv_folder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"
+            android:scrollbars="none"
+            android:visibility="invisible">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcv_folder"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:clickable="true"
+                android:clipToPadding="false"
+                android:focusable="true"
+                android:orientation="vertical"
+                android:overScrollMode="never"
+                android:paddingBottom="@dimen/_40sdp"
+                app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                app:spanCount="2"
+                tools:listitem="@layout/item_manager_folder_vertical" />
+        </HorizontalScrollView>
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/scv_this_pc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/ctr_this_pc_folder"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_right_document"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:icon="@drawable/ic_document_folder"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:orientation="vertical"
+                    app:title="@string/document" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_right_dowloads"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_20sdp"
+                    app:icon="@drawable/ic_download_folder"
+                    app:layout_constraintStart_toEndOf="@+id/fv_right_document"
+                    app:layout_constraintTop_toTopOf="@+id/fv_right_document"
+                    app:orientation="vertical"
+                    app:title="@string/download" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_right_picture"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    app:icon="@drawable/ic_picture_folder"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/fv_right_document"
+                    app:orientation="vertical"
+                    app:title="@string/picture" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_right_video"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_20sdp"
+                    app:icon="@drawable/ic_video_folder"
+                    app:layout_constraintStart_toEndOf="@+id/fv_right_picture"
+                    app:layout_constraintTop_toTopOf="@+id/fv_right_picture"
+                    app:orientation="vertical"
+                    app:title="@string/video" />
+
+                <LinearLayout
+                    android:id="@+id/ln_local_disk_c"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:layout_marginEnd="@dimen/_20sdp"
+                    android:background="?attr/selectableItemBackground"
+                    android:orientation="horizontal"
+                    app:layout_constraintTop_toBottomOf="@+id/fv_right_video">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/iv_disk_c"
+                        android:layout_width="@dimen/_55sdp"
+                        android:layout_height="@dimen/_55sdp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/ic_local_disk" />
+
+                    <LinearLayout
+                        android:id="@+id/ln_disk_infor"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="@dimen/_10sdp"
+                        android:gravity="center|start"
+                        android:orientation="vertical">
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            style="@style/textDefault"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="end"
+                            android:singleLine="true"
+                            android:text="@string/local_disk_c2"
+                            android:textSize="@dimen/_13sdp" />
+
+                        <ProgressBar
+                            android:id="@+id/prg_memory"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_11sdp"
+                            android:layout_marginTop="@dimen/_3sdp"
+                            android:progress="0"
+                            android:progressDrawable="@drawable/custom_progressbar" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:id="@+id/tv_status_memory"
+                            style="@style/textDefault"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_3sdp"
+                            android:ellipsize="end"
+                            android:singleLine="true"
+                            android:textColor="@color/color_828282"
+                            android:textSize="@dimen/_10sdp"
+                            tools:text="8.66 GB free of 20.14GB" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.core.widget.NestedScrollView>
+
+        <LinearLayout
+            android:id="@+id/ln_right_ftp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_status_ftp"
+                style="@style/textDefault"
+                android:layout_width="@dimen/_80sdp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:background="@drawable/button_background_radius_max"
+                android:text="@string/start"
+                android:textAllCaps="false"
+                android:textColor="@color/white" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_status_ftp"
+                style="@style/textDefault"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:gravity="center"
+                android:padding="@dimen/_10sdp"
+                tools:text="@string/app_name" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ln_right_lan"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

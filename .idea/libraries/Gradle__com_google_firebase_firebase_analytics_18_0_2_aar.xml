@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-analytics:18.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bdb646dc4579c31eccbbd68a79479a95/firebase-analytics-18.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bdb646dc4579c31eccbbd68a79479a95/firebase-analytics-18.0.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bdb646dc4579c31eccbbd68a79479a95/firebase-analytics-18.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b895c0363fb944b4e81b09b61454204c/firebase-analytics-18.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b895c0363fb944b4e81b09b61454204c/firebase-analytics-18.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b895c0363fb944b4e81b09b61454204c/firebase-analytics-18.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8552340f881df39c3f5040617d0ca24e/firebase-analytics-18.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8552340f881df39c3f5040617d0ca24e/firebase-analytics-18.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8552340f881df39c3f5040617d0ca24e/firebase-analytics-18.0.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ed9681856a7ecb8d28b2637ae13511ff/firebase-analytics-18.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ed9681856a7ecb8d28b2637ae13511ff/firebase-analytics-18.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ed9681856a7ecb8d28b2637ae13511ff/firebase-analytics-18.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a26d6a03485696939d48e6dbf18e087f/firebase-analytics-18.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a26d6a03485696939d48e6dbf18e087f/firebase-analytics-18.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a26d6a03485696939d48e6dbf18e087f/firebase-analytics-18.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics/18.0.2/27037f967d955876b3e29db6de6a24458c5b6080/firebase-analytics-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

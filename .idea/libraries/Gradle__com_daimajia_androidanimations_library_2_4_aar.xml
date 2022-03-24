@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.androidanimations:library:2.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/86c1f7f944efd78859df42c468a4ac1b/library-2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/86c1f7f944efd78859df42c468a4ac1b/library-2.4/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/86c1f7f944efd78859df42c468a4ac1b/library-2.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/fa4563d5383208a08abb5bb09841fa87/library-2.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/fa4563d5383208a08abb5bb09841fa87/library-2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/fa4563d5383208a08abb5bb09841fa87/library-2.4/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/45acdbcaa4cf18ef9dee176d5ce3fded/library-2.4/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/45acdbcaa4cf18ef9dee176d5ce3fded/library-2.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/45acdbcaa4cf18ef9dee176d5ce3fded/library-2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a092ada2d558def102e194e82b029728/library-2.4/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a092ada2d558def102e194e82b029728/library-2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a092ada2d558def102e194e82b029728/library-2.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b0757fd0bb5044f8503e1acf615ab766/library-2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b0757fd0bb5044f8503e1acf615ab766/library-2.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b0757fd0bb5044f8503e1acf615ab766/library-2.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.daimajia.androidanimations/library/2.4/aec1cff1fe060724a1bb50fe5c5274409f9aabd3/library-2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.daimajia.androidanimations/library/2.4/d3b35f8478c2c7e6225c8dcde48caeeecc9dc5b3/library-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

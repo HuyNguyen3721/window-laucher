@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.work:work-runtime:2.7.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/32a5d95339addf19a21ecae1038886f1/work-runtime-2.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/32a5d95339addf19a21ecae1038886f1/work-runtime-2.7.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/32a5d95339addf19a21ecae1038886f1/work-runtime-2.7.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/3840b818da15148fd52ea02572336b3c/work-runtime-2.7.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/3840b818da15148fd52ea02572336b3c/work-runtime-2.7.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/3840b818da15148fd52ea02572336b3c/work-runtime-2.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/3adff1ca96429a4a5a0646a2d0fb3af1/work-runtime-2.7.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/3adff1ca96429a4a5a0646a2d0fb3af1/work-runtime-2.7.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/3adff1ca96429a4a5a0646a2d0fb3af1/work-runtime-2.7.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/androidx.work/work-runtime/2.7.0/6d6f6716b1e282dd9a97c821baecd8a96c950749/work-runtime-2.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

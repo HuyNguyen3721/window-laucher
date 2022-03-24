@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intuit.ssp:ssp-android:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/390649d6754f0b6d6e170846c03de9a9/ssp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/390649d6754f0b6d6e170846c03de9a9/ssp-android-1.0.6/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/390649d6754f0b6d6e170846c03de9a9/ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/88ee3a8787be399fec3b870f499415e5/ssp-android-1.0.6/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/88ee3a8787be399fec3b870f499415e5/ssp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/88ee3a8787be399fec3b870f499415e5/ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1857b3d3acf989b901be6ba63fd0f142/ssp-android-1.0.6/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1857b3d3acf989b901be6ba63fd0f142/ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1857b3d3acf989b901be6ba63fd0f142/ssp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/abd8ffe6dc5f56830e2a7a44dcf37c4b/ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/abd8ffe6dc5f56830e2a7a44dcf37c4b/ssp-android-1.0.6/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/abd8ffe6dc5f56830e2a7a44dcf37c4b/ssp-android-1.0.6/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/80e3a35e588e04788de1ad8dd600d5ab/ssp-android-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/80e3a35e588e04788de1ad8dd600d5ab/ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/80e3a35e588e04788de1ad8dd600d5ab/ssp-android-1.0.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

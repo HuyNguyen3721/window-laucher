@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment-ktx:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/61aa614522e26420efe18141e01b6596/fragment-ktx-1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/61aa614522e26420efe18141e01b6596/fragment-ktx-1.2.5/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/61aa614522e26420efe18141e01b6596/fragment-ktx-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6b1eb0380e028ac37f9e9d671028b99e/fragment-ktx-1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6b1eb0380e028ac37f9e9d671028b99e/fragment-ktx-1.2.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6b1eb0380e028ac37f9e9d671028b99e/fragment-ktx-1.2.5/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2f850dfe88a2420f589b4469e67cd737/fragment-ktx-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2f850dfe88a2420f589b4469e67cd737/fragment-ktx-1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2f850dfe88a2420f589b4469e67cd737/fragment-ktx-1.2.5/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ad22afd64d62e72867694b0149fbb50b/fragment-ktx-1.2.5/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ad22afd64d62e72867694b0149fbb50b/fragment-ktx-1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ad22afd64d62e72867694b0149fbb50b/fragment-ktx-1.2.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dfb2101c8c347f288a247c89e0d792ce/fragment-ktx-1.2.5/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dfb2101c8c347f288a247c89e0d792ce/fragment-ktx-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dfb2101c8c347f288a247c89e0d792ce/fragment-ktx-1.2.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.2.5/1ffa885329ceba2ceb2bea1253d2ca32a0c95fa7/fragment-ktx-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

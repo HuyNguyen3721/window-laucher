@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mbridge.msdk.oversea:nativeex:16.0.11@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8ed8e195b0c4b9e1d0cdfa37e20e271b/nativeex-16.0.11/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8ed8e195b0c4b9e1d0cdfa37e20e271b/nativeex-16.0.11/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8ed8e195b0c4b9e1d0cdfa37e20e271b/nativeex-16.0.11/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8ed8e195b0c4b9e1d0cdfa37e20e271b/nativeex-16.0.11/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

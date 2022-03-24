@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047175974353",
+    "project_id": "computer-ez-1",
+    "storage_bucket": "computer-ez-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047175974353:android:e7d34306bc1c37f2e9e4f0",
+        "android_client_info": {
+          "package_name": "com.ezteam.windowslauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047175974353-epc3fl71vkn03adham69ksibsek7mjkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_PlIvAlb40ms1UMp6BCPixaDkhP5Y8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047175974353-epc3fl71vkn03adham69ksibsek7mjkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

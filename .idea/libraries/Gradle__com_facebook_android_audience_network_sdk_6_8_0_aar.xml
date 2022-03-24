@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:6.8.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ce196cdf4c2a60937e26956f466266c/audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ce196cdf4c2a60937e26956f466266c/audience-network-sdk-6.8.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ce196cdf4c2a60937e26956f466266c/audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2fd7536750f32b1308e0dff2a25a65f2/audience-network-sdk-6.8.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2fd7536750f32b1308e0dff2a25a65f2/audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2fd7536750f32b1308e0dff2a25a65f2/audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/148f05372be5490ee74418fbfc21ad28/audience-network-sdk-6.8.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/148f05372be5490ee74418fbfc21ad28/audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/148f05372be5490ee74418fbfc21ad28/audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/049e8dc01892e2e8c7ab082c3ee5577f/audience-network-sdk-6.8.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/049e8dc01892e2e8c7ab082c3ee5577f/audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/049e8dc01892e2e8c7ab082c3ee5577f/audience-network-sdk-6.8.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5ae6eb2f12888173d4873169c846f770/audience-network-sdk-6.8.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5ae6eb2f12888173d4873169c846f770/audience-network-sdk-6.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5ae6eb2f12888173d4873169c846f770/audience-network-sdk-6.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

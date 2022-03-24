@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applovin.mediation:mintegral-adapter:16.0.11.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a199b3a6b0bbc9df1d8ecf8092db1dc2/mintegral-adapter-16.0.11.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a199b3a6b0bbc9df1d8ecf8092db1dc2/mintegral-adapter-16.0.11.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a199b3a6b0bbc9df1d8ecf8092db1dc2/mintegral-adapter-16.0.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.applovin.mediation/mintegral-adapter/16.0.11.0/5db0b5f29c9f12be1ece31d63a2c9f30ea82e5ef/mintegral-adapter-16.0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

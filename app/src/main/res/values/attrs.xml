@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+
+    <declare-styleable name="SplitView">
+        <attr name="handle" format="reference" />
+        <attr name="primaryContent" format="reference" />
+        <attr name="secondaryContent" format="reference" />
+        <attr name="minLeft" format="dimension" />
+        <attr name="minRight" format="dimension" />
+        <attr name="minTop" format="dimension" />
+        <attr name="minBottom" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="FolderView">
+        <attr name="title" format="string" />
+        <attr name="icon" format="reference" />
+        <attr name="orientation" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="textSize" format="dimension" />
+        <attr name="imageSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="WindowsHeaderView">
+        <attr name="whTextHeader" format="string" />
+        <attr name="whTextButton" format="string" />
+        <attr name="whTextColor" format="color" />
+        <attr name="whIsBack" format="boolean" />
+        <attr name="whIsMore" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="ItemFunctionView">
+        <attr name="fvTextFunction" format="string" />
+        <attr name="fvTextColor" format="color" />
+        <attr name="fvShowIconNext" format="boolean" />
+        <attr name="fvIconResId" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ItemSettingView">
+        <attr name="svTextFunction" format="string" />
+        <attr name="svTextColor" format="color" />
+        <attr name="svShowIconNext" format="boolean" />
+        <attr name="svIconResId" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="BlurCardView">
+        <attr name="bcBlurColor" format="color" />
+        <attr name="bcBlurRadius" format="float" />
+    </declare-styleable>
+</resources>

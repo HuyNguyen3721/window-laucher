@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Windows_Launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/Windows_Launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ads-module/Windows_Launcher.ads-module.iml" filepath="$PROJECT_DIR$/.idea/modules/ads-module/Windows_Launcher.ads-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Windows_Launcher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Windows_Launcher.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-module/Windows_Launcher.base-module.iml" filepath="$PROJECT_DIR$/.idea/modules/base-module/Windows_Launcher.base-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storage/Windows_Launcher.storage.iml" filepath="$PROJECT_DIR$/.idea/modules/storage/Windows_Launcher.storage.iml" />
+    </modules>
+  </component>
+</project>

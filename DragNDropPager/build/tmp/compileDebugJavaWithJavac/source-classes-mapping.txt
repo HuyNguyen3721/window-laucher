@@ -1,0 +1,46 @@
+com/viewpager/dndp/views/DNDPager.java
+ com.viewpager.dndp.views.DNDPager
+ com.viewpager.dndp.views.DNDPager$1
+ com.viewpager.dndp.views.DNDPager$2
+ com.viewpager.dndp.views.DNDPager$3
+ com.viewpager.dndp.views.DNDPager$3$1
+ com.viewpager.dndp.views.DNDPager$4
+ com.viewpager.dndp.views.DNDPager$5
+ com.viewpager.dndp.views.DNDPager$MESSAGE
+com/viewpager/dndp/views/DNDDoubleTap.java
+ com.viewpager.dndp.views.DNDDoubleTap
+com/viewpager/dndp/views/DNDItem.java
+ com.viewpager.dndp.views.DNDItem
+com/viewpager/dndp/fragment/FCollectionAdapter.java
+ com.viewpager.dndp.fragment.FCollectionAdapter
+ com.viewpager.dndp.fragment.FCollectionAdapter$1
+com/viewpager/dndp/BuildConfig.java
+ com.viewpager.dndp.BuildConfig
+com/viewpager/dndp/views/IDNDPager.java
+ com.viewpager.dndp.views.IDNDPager
+ com.viewpager.dndp.views.IDNDPager$ActionEvent
+ com.viewpager.dndp.views.IDNDPager$AutoSwipe
+ com.viewpager.dndp.views.IDNDPager$Coordinates
+ com.viewpager.dndp.views.IDNDPager$Item
+ com.viewpager.dndp.views.IDNDPager$ItemView
+ com.viewpager.dndp.views.IDNDPager$OnButtonPreInit
+ com.viewpager.dndp.views.IDNDPager$OnChangeLocationListener
+ com.viewpager.dndp.views.IDNDPager$SettingsPreference
+com/viewpager/dndp/views/DNDPin.java
+ com.viewpager.dndp.views.DNDPin
+ com.viewpager.dndp.views.DNDPin$DRAG_DIRECTION
+com/viewpager/dndp/views/DNDSnapView.java
+ com.viewpager.dndp.views.DNDSnapView
+com/viewpager/dndp/FCustomizePanel.java
+ com.viewpager.dndp.FCustomizePanel
+ com.viewpager.dndp.FCustomizePanel$1
+ com.viewpager.dndp.FCustomizePanel$2
+com/viewpager/dndp/views/DNDButton.java
+ com.viewpager.dndp.views.DNDButton
+com/viewpager/dndp/views/DNDUtils.java
+ com.viewpager.dndp.views.DNDUtils
+ com.viewpager.dndp.views.DNDUtils$1
+ com.viewpager.dndp.views.DNDUtils$DNDItemComparator
+com/viewpager/dndp/fragment/FPage.java
+ com.viewpager.dndp.fragment.FPage
+ com.viewpager.dndp.fragment.FPage$1

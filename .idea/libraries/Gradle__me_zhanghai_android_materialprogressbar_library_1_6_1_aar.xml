@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhanghai.android.materialprogressbar:library:1.6.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0c843b75e5d16553c158238adb4d98e2/library-1.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0c843b75e5d16553c158238adb4d98e2/library-1.6.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/0c843b75e5d16553c158238adb4d98e2/library-1.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2e5aa59b2d21f2111b2091afc2f86b5e/library-1.6.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2e5aa59b2d21f2111b2091afc2f86b5e/library-1.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2e5aa59b2d21f2111b2091afc2f86b5e/library-1.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/cd95b35b137c76446b1869bfb5aa3b63/library-1.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/cd95b35b137c76446b1869bfb5aa3b63/library-1.6.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/cd95b35b137c76446b1869bfb5aa3b63/library-1.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b7d73be588f3d0a9182bd25793b7d158/library-1.6.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b7d73be588f3d0a9182bd25793b7d158/library-1.6.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b7d73be588f3d0a9182bd25793b7d158/library-1.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6a95fac39f9e5f970c8b6b792391b6f3/library-1.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6a95fac39f9e5f970c8b6b792391b6f3/library-1.6.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6a95fac39f9e5f970c8b6b792391b6f3/library-1.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.6.1/63529869eb790d8abc8e1a0d04513923cca32b16/library-1.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.6.1/e593ced74a8b5746ba0ee53b2e4afc46cf029cf/library-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

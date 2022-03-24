@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.startup:startup-runtime:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bf3952f0e34d82a5c8b376121323a151/startup-runtime-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bf3952f0e34d82a5c8b376121323a151/startup-runtime-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bf3952f0e34d82a5c8b376121323a151/startup-runtime-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1d73e7e755baebffe006991712efb186/startup-runtime-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1d73e7e755baebffe006991712efb186/startup-runtime-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1d73e7e755baebffe006991712efb186/startup-runtime-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/efddc6c44748f098840e3fffb5942e1f/startup-runtime-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/efddc6c44748f098840e3fffb5942e1f/startup-runtime-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/efddc6c44748f098840e3fffb5942e1f/startup-runtime-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/androidx.startup/startup-runtime/1.0.0/1caeb57122c1e988047c3f5a98493a3a8c6d5f21/startup-runtime-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

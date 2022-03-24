@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: jp.wasabeef:recyclerview-animators:4.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b923e85c5eb0cec9e72046b2e14df4ea/recyclerview-animators-4.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b923e85c5eb0cec9e72046b2e14df4ea/recyclerview-animators-4.0.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b923e85c5eb0cec9e72046b2e14df4ea/recyclerview-animators-4.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/50ee7dd3f065f7f718bd026eca2af375/recyclerview-animators-4.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/50ee7dd3f065f7f718bd026eca2af375/recyclerview-animators-4.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/50ee7dd3f065f7f718bd026eca2af375/recyclerview-animators-4.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a47989884df67f105823b8e31acb6409/recyclerview-animators-4.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a47989884df67f105823b8e31acb6409/recyclerview-animators-4.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a47989884df67f105823b8e31acb6409/recyclerview-animators-4.0.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/510edb748676c7d2658e8f641f04742e/recyclerview-animators-4.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/510edb748676c7d2658e8f641f04742e/recyclerview-animators-4.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/510edb748676c7d2658e8f641f04742e/recyclerview-animators-4.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/81e501bae59acc18de5580231cb46856/recyclerview-animators-4.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/81e501bae59acc18de5580231cb46856/recyclerview-animators-4.0.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/81e501bae59acc18de5580231cb46856/recyclerview-animators-4.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/recyclerview-animators/4.0.2/b43bef7f3373e82cb4c60a961abb87b5b2644cfa/recyclerview-animators-4.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/recyclerview-animators/4.0.2/f6119cf833e05a70161916bdb2753b5f4d68570d/recyclerview-animators-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

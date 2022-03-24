@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-ktx:2.4.0-alpha03@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a5e4321925a56fb3bbe49a5558eb5d2a/room-ktx-2.4.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a5e4321925a56fb3bbe49a5558eb5d2a/room-ktx-2.4.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a5e4321925a56fb3bbe49a5558eb5d2a/room-ktx-2.4.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/03034ef65bfd74f1d75f754ad2b7468d/room-ktx-2.4.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/03034ef65bfd74f1d75f754ad2b7468d/room-ktx-2.4.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/03034ef65bfd74f1d75f754ad2b7468d/room-ktx-2.4.0-alpha03/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/e34aef257b71e37250d0245a1a228508/room-ktx-2.4.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/e34aef257b71e37250d0245a1a228508/room-ktx-2.4.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/e34aef257b71e37250d0245a1a228508/room-ktx-2.4.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/069d21ee661c4328cd0e3e4f932cbcb7/room-ktx-2.4.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/069d21ee661c4328cd0e3e4f932cbcb7/room-ktx-2.4.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/069d21ee661c4328cd0e3e4f932cbcb7/room-ktx-2.4.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ced557467d2aa0abe8a3b1a32e3c1186/room-ktx-2.4.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ced557467d2aa0abe8a3b1a32e3c1186/room-ktx-2.4.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/ced557467d2aa0abe8a3b1a32e3c1186/room-ktx-2.4.0-alpha03/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/androidx.room/room-ktx/2.4.0-alpha03/9474824d8d29f2a28e480e388023c62155b57644/room-ktx-2.4.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

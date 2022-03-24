@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-androidx-fragment:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/34b6b712e05a953fc5bf1921a94f2a37/koin-androidx-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/34b6b712e05a953fc5bf1921a94f2a37/koin-androidx-fragment-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/34b6b712e05a953fc5bf1921a94f2a37/koin-androidx-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d58f3cd7baf30e8d50d58c209b752a76/koin-androidx-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d58f3cd7baf30e8d50d58c209b752a76/koin-androidx-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d58f3cd7baf30e8d50d58c209b752a76/koin-androidx-fragment-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/83d92d152e8683d51f174a10336439cf/koin-androidx-fragment-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/83d92d152e8683d51f174a10336439cf/koin-androidx-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/83d92d152e8683d51f174a10336439cf/koin-androidx-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1ee166e102861f0cd1d1d12c0d0204a6/koin-androidx-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1ee166e102861f0cd1d1d12c0d0204a6/koin-androidx-fragment-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1ee166e102861f0cd1d1d12c0d0204a6/koin-androidx-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ebbbc3cf00d482151c6411c176f06f0/koin-androidx-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ebbbc3cf00d482151c6411c176f06f0/koin-androidx-fragment-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ebbbc3cf00d482151c6411c176f06f0/koin-androidx-fragment-2.2.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-fragment/2.2.2/76e316e7d1027a7733e14ead287d070a3cf81c4f/koin-androidx-fragment-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/org.koin/koin-androidx-fragment/2.2.2/df49ed4a3db710de3b717cec130aa41f21f1c80e/koin-androidx-fragment-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

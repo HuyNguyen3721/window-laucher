@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-ui:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a4ebd1fe3c4eaa7dc259333c077d45f1/navigation-ui-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a4ebd1fe3c4eaa7dc259333c077d45f1/navigation-ui-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a4ebd1fe3c4eaa7dc259333c077d45f1/navigation-ui-2.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2c718f3dc99c31d8215c14018f1b83a4/navigation-ui-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2c718f3dc99c31d8215c14018f1b83a4/navigation-ui-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2c718f3dc99c31d8215c14018f1b83a4/navigation-ui-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/52cd26880a4a6cca3bc910f27800a3f8/navigation-ui-2.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/52cd26880a4a6cca3bc910f27800a3f8/navigation-ui-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/52cd26880a4a6cca3bc910f27800a3f8/navigation-ui-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2c2208b4133f2f8d3b468550cc6ff93c/navigation-ui-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2c2208b4133f2f8d3b468550cc6ff93c/navigation-ui-2.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2c2208b4133f2f8d3b468550cc6ff93c/navigation-ui-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d3d9d9b6bcc1e3e037d4043e604eed0c/navigation-ui-2.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d3d9d9b6bcc1e3e037d4043e604eed0c/navigation-ui-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d3d9d9b6bcc1e3e037d4043e604eed0c/navigation-ui-2.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui/2.2.2/54c06c95331197c8d71a79e3cb53aef3c1dc81be/navigation-ui-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,5 @@
+rootProject.name = "Windows Launcher"
+include ':app'
+include ':base-module'
+include ':storage'
+include ':ads-module'

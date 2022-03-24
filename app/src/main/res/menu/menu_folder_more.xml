@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/select_all"
+        android:icon="@drawable/ic_folder_select_all"
+        android:orderInCategory="1"
+        android:title="@string/select_all" />
+
+    <item
+        android:id="@+id/list_view"
+        android:icon="@drawable/ic_folder_listview"
+        android:orderInCategory="2"
+        android:title="@string/listview" />
+    <item
+        android:id="@+id/grid_view"
+        android:icon="@drawable/ic_folder_gridview"
+        android:orderInCategory="2"
+        android:title="@string/gridview" />
+
+    <item
+        android:id="@+id/properties"
+        android:icon="@drawable/ic_folder_properties"
+        android:orderInCategory="3"
+        android:title="@string/properties" />
+</menu>

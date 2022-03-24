@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:paddingTop="@dimen/_5sdp"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/iv_expend"
+        android:layout_width="@dimen/_25sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_margin="@dimen/_2sdp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="@dimen/_2sdp"
+        android:src="@drawable/ic_right_arrow"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:overScrollMode="never"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_expend">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/ln_quick_action"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_30sdp"
+                android:background="?attr/selectableItemBackground"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_20sdp"
+                    android:layout_marginStart="@dimen/_3sdp"
+                    android:padding="@dimen/_2sdp"
+                    app:srcCompat="@drawable/ic_start_folder" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    style="@style/textDefault"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:layout_weight="1"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="@string/quick_access"
+                    android:textSize="@dimen/_11sdp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/iv_status_quick_access"
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_20sdp"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    app:srcCompat="@drawable/ic_arrow_folder" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ln_expend_quick_access"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingStart="@dimen/_15sdp"
+                android:visibility="gone">
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_left_destop"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_7sdp"
+                    app:icon="@drawable/ic_destop_folder"
+                    app:orientation="horizontal"
+                    app:textSize="@dimen/_11sdp"
+                    app:title="@string/desktop" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_left_download"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_7sdp"
+                    app:icon="@drawable/ic_download_folder_2"
+                    app:orientation="horizontal"
+                    app:textSize="@dimen/_11sdp"
+                    app:title="@string/download" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_left_document"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_7sdp"
+                    app:icon="@drawable/ic_document_folder_2"
+                    app:orientation="horizontal"
+                    app:textSize="@dimen/_11sdp"
+                    app:title="@string/document" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_left_picture"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_7sdp"
+                    app:icon="@drawable/ic_picture_folder_2"
+                    app:orientation="horizontal"
+                    app:textSize="@dimen/_11sdp"
+                    app:title="@string/picture" />
+            </LinearLayout>
+
+            <com.ezteam.windowslauncher.widget.FolderView
+                android:id="@+id/fv_this_pc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_7sdp"
+                app:icon="@drawable/ic_computer"
+                app:orientation="horizontal"
+                app:textSize="@dimen/_11sdp"
+                app:title="@string/this_pc" />
+
+            <com.ezteam.windowslauncher.widget.FolderView
+                android:id="@+id/fv_local_disk_c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_7sdp"
+                app:icon="@drawable/ic_local_disk"
+                app:orientation="horizontal"
+                app:textSize="@dimen/_11sdp"
+                app:title="@string/local_disk_c2" />
+
+            <LinearLayout
+                android:id="@+id/ln_network"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:background="?attr/selectableItemBackground"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_20sdp"
+                    android:layout_marginStart="@dimen/_3sdp"
+                    android:padding="@dimen/_2sdp"
+                    app:srcCompat="@drawable/ic_network_folder" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    style="@style/textDefault"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:layout_weight="1"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text="@string/network"
+                    android:textSize="@dimen/_11sdp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/iv_status_network"
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_20sdp"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    app:srcCompat="@drawable/ic_arrow_folder" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ln_expend_network"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_left_ftp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:paddingStart="@dimen/_15sdp"
+                    app:icon="@drawable/ic_folder_ftp"
+                    app:orientation="horizontal"
+                    app:textSize="@dimen/_11sdp"
+                    app:title="@string/ftp" />
+
+                <com.ezteam.windowslauncher.widget.FolderView
+                    android:id="@+id/fv_left_lan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:paddingStart="@dimen/_15sdp"
+                    app:icon="@drawable/ic_folder_lan"
+                    app:orientation="horizontal"
+                    app:textSize="@dimen/_11sdp"
+                    app:title="@string/lan" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

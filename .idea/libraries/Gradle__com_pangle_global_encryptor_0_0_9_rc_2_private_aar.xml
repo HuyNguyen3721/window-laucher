@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pangle.global:encryptor:0.0.9-rc.2-private@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8a23a3ad569fdc483b72e2029c867e4c/encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8a23a3ad569fdc483b72e2029c867e4c/encryptor-0.0.9-rc.2-private/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/8a23a3ad569fdc483b72e2029c867e4c/encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/57f3893e302789dc71ee030751be8507/encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/57f3893e302789dc71ee030751be8507/encryptor-0.0.9-rc.2-private/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/57f3893e302789dc71ee030751be8507/encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/913d3a8e2a7d9b0a0ba06388334f9ba1/encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/913d3a8e2a7d9b0a0ba06388334f9ba1/encryptor-0.0.9-rc.2-private/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/913d3a8e2a7d9b0a0ba06388334f9ba1/encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/99004ecdcedf5198ab29a33c76147686/encryptor-0.0.9-rc.2-private/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/99004ecdcedf5198ab29a33c76147686/encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/99004ecdcedf5198ab29a33c76147686/encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/891816a5f8c4ea291030b4f517b39cf7/encryptor-0.0.9-rc.2-private/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/891816a5f8c4ea291030b4f517b39cf7/encryptor-0.0.9-rc.2-private/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/891816a5f8c4ea291030b4f517b39cf7/encryptor-0.0.9-rc.2-private/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

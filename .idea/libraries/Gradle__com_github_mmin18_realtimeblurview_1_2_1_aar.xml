@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mmin18:realtimeblurview:1.2.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ee01b2793b223b8a2efee2076ca55d5/realtimeblurview-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ee01b2793b223b8a2efee2076ca55d5/realtimeblurview-1.2.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ee01b2793b223b8a2efee2076ca55d5/realtimeblurview-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/2ee01b2793b223b8a2efee2076ca55d5/realtimeblurview-1.2.1/jars/libs/blurimpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/282ad8bf6a67640d686f20624ff5e316/realtimeblurview-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/282ad8bf6a67640d686f20624ff5e316/realtimeblurview-1.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/282ad8bf6a67640d686f20624ff5e316/realtimeblurview-1.2.1/jars/libs/blurimpl.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/282ad8bf6a67640d686f20624ff5e316/realtimeblurview-1.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/947bf77ac0d4bf7453b6153310be46d7/realtimeblurview-1.2.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/947bf77ac0d4bf7453b6153310be46d7/realtimeblurview-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/947bf77ac0d4bf7453b6153310be46d7/realtimeblurview-1.2.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/947bf77ac0d4bf7453b6153310be46d7/realtimeblurview-1.2.1/jars/libs/blurimpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/703ae8b410419a1b2f7c48bae6833dab/realtimeblurview-1.2.1/jars/libs/blurimpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/703ae8b410419a1b2f7c48bae6833dab/realtimeblurview-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/703ae8b410419a1b2f7c48bae6833dab/realtimeblurview-1.2.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/703ae8b410419a1b2f7c48bae6833dab/realtimeblurview-1.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4651f152156a1b8c2d11c4d557ea79ef/realtimeblurview-1.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4651f152156a1b8c2d11c4d557ea79ef/realtimeblurview-1.2.1/jars/libs/blurimpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4651f152156a1b8c2d11c4d557ea79ef/realtimeblurview-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4651f152156a1b8c2d11c4d557ea79ef/realtimeblurview-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.github.mmin18/realtimeblurview/1.2.1/c4245fa14a95914521c9666c2782fdbb4ffa85ab/realtimeblurview-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.github.mmin18/realtimeblurview/1.2.1/d5978443fcc4d48bba98b9f01bac541f5b0ee7c8/realtimeblurview-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

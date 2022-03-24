@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.flurry.android:analytics:12.11.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b2806ac4227032b877f63d7fc353741a/analytics-12.11.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b2806ac4227032b877f63d7fc353741a/analytics-12.11.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b2806ac4227032b877f63d7fc353741a/analytics-12.11.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/51b1db8ec3ccaf3900cca7dd20ce6817/analytics-12.11.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/51b1db8ec3ccaf3900cca7dd20ce6817/analytics-12.11.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/51b1db8ec3ccaf3900cca7dd20ce6817/analytics-12.11.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dbfd38c7725cf5d9cbc081d6c3d2e85a/analytics-12.11.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dbfd38c7725cf5d9cbc081d6c3d2e85a/analytics-12.11.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dbfd38c7725cf5d9cbc081d6c3d2e85a/analytics-12.11.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/c0245a9ce83ef0805baf70d982e37fdb/analytics-12.11.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/c0245a9ce83ef0805baf70d982e37fdb/analytics-12.11.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/c0245a9ce83ef0805baf70d982e37fdb/analytics-12.11.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a9fc8548144feef4e07748c6ea96c898/analytics-12.11.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a9fc8548144feef4e07748c6ea96c898/analytics-12.11.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/a9fc8548144feef4e07748c6ea96c898/analytics-12.11.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

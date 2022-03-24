@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.castorflex.smoothprogressbar:library-circular:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/461f9c11af50ada597a0de5e2e17810f/library-circular-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/461f9c11af50ada597a0de5e2e17810f/library-circular-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/461f9c11af50ada597a0de5e2e17810f/library-circular-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4ba909fd7eb5de84b05241494ae70b43/library-circular-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4ba909fd7eb5de84b05241494ae70b43/library-circular-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4ba909fd7eb5de84b05241494ae70b43/library-circular-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4558b7ad6b468945240505e5774b705d/library-circular-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4558b7ad6b468945240505e5774b705d/library-circular-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/4558b7ad6b468945240505e5774b705d/library-circular-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/f258e4f8e3b957e9637430ed2f4bfa84/library-circular-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/f258e4f8e3b957e9637430ed2f4bfa84/library-circular-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/f258e4f8e3b957e9637430ed2f4bfa84/library-circular-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b867b2b3e65864160a7d7704524aaede/library-circular-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b867b2b3e65864160a7d7704524aaede/library-circular-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/b867b2b3e65864160a7d7704524aaede/library-circular-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.github.castorflex.smoothprogressbar/library-circular/1.1.0/2db471f4e7052782870da8a2c01e74377af33604/library-circular-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/com.github.castorflex.smoothprogressbar/library-circular/1.1.0/6941fb07e57b16241335ac8244e034094292888f/library-circular-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

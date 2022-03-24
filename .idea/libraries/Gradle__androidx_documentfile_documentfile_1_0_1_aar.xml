@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.documentfile:documentfile:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6a0adf9ca445139719864e3cc02551e9/documentfile-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6a0adf9ca445139719864e3cc02551e9/documentfile-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6a0adf9ca445139719864e3cc02551e9/documentfile-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6892ba7c6d122b3e159c466ad1c51941/documentfile-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6892ba7c6d122b3e159c466ad1c51941/documentfile-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/6892ba7c6d122b3e159c466ad1c51941/documentfile-1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5ecaf0bea02351e7a2295c8322313805/documentfile-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5ecaf0bea02351e7a2295c8322313805/documentfile-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/5ecaf0bea02351e7a2295c8322313805/documentfile-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/470f3c9d7b46c2588db1be072391dfdf/documentfile-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/470f3c9d7b46c2588db1be072391dfdf/documentfile-1.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/470f3c9d7b46c2588db1be072391dfdf/documentfile-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/99e552b62ef405e3444d76a26e8aa977/documentfile-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/99e552b62ef405e3444d76a26e8aa977/documentfile-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/99e552b62ef405e3444d76a26e8aa977/documentfile-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/androidx.documentfile/documentfile/1.0.1/df3679f4b62926f0f6efe85c275866142718f2ce/documentfile-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

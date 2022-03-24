@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: me.grantland:autofittextview:0.2.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/517e36f50042b52a236874c738a3d349/autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/517e36f50042b52a236874c738a3d349/autofittextview-0.2.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/517e36f50042b52a236874c738a3d349/autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dc8bda01a560adb8bc40e2b77845a372/autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dc8bda01a560adb8bc40e2b77845a372/autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/dc8bda01a560adb8bc40e2b77845a372/autofittextview-0.2.1/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/61835ce592e319a56dedf390f4fffbf5/autofittextview-0.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/61835ce592e319a56dedf390f4fffbf5/autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/61835ce592e319a56dedf390f4fffbf5/autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/10d4fc8e3d17217e84a3fda7761776b8/autofittextview-0.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/10d4fc8e3d17217e84a3fda7761776b8/autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/10d4fc8e3d17217e84a3fda7761776b8/autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/231f6a66e97b31958b6a7f523a3e4a65/autofittextview-0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/231f6a66e97b31958b6a7f523a3e4a65/autofittextview-0.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/231f6a66e97b31958b6a7f523a3e4a65/autofittextview-0.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/me.grantland/autofittextview/0.2.1/3f2d19f6f8b69856350a677574c86576dafdae05/autofittextview-0.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/me.grantland/autofittextview/0.2.1/4e12caef5d0681a6c3dacb4ddcaa7589dc4f531c/autofittextview-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

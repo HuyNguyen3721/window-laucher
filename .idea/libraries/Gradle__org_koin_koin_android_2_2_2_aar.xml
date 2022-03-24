@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-android:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1b0a86bd9fecc7be83cc86eca9dfe418/koin-android-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1b0a86bd9fecc7be83cc86eca9dfe418/koin-android-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/1b0a86bd9fecc7be83cc86eca9dfe418/koin-android-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/01f1ed5491f0b7857f7a5f4e08db9567/koin-android-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/01f1ed5491f0b7857f7a5f4e08db9567/koin-android-2.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/01f1ed5491f0b7857f7a5f4e08db9567/koin-android-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/7781b5dd30c86f154829cf23f97086dc/koin-android-2.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/7781b5dd30c86f154829cf23f97086dc/koin-android-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/7781b5dd30c86f154829cf23f97086dc/koin-android-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bdb238e5a43cbcba566e3c0d3401fa2b/koin-android-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bdb238e5a43cbcba566e3c0d3401fa2b/koin-android-2.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/bdb238e5a43cbcba566e3c0d3401fa2b/koin-android-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d1b7bee03ead8458c2d7da89d8688c3d/koin-android-2.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d1b7bee03ead8458c2d7da89d8688c3d/koin-android-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/caches/transforms-2/files-2.1/d1b7bee03ead8458c2d7da89d8688c3d/koin-android-2.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android/2.2.2/d5c1215d676e0e5e33960eb36f158c0b16f1aab7/koin-android-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android/2.2.2/c9b0b84b968fed218ec129c9c8f1d03227142230/koin-android-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

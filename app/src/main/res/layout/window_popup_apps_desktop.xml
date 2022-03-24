@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:ignore="MissingDefaultResource">
+
+    <com.ezteam.windowslauncher.widget.BlurCardView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:bcBlurColor="@color/tokenAppColor80"
+        app:cardCornerRadius="@dimen/_5sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="wrap_content"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.ezteam.windowslauncher.widget.ItemFunctionView
+                android:id="@+id/item_open"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:fvIconResId="@drawable/ic_item_folder"
+                app:fvShowIconNext="false"
+                app:fvTextFunction="@string/open" />
+
+            <com.ezteam.windowslauncher.widget.ItemFunctionView
+                android:id="@+id/item_remove"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:fvIconResId="@drawable/ic_item_remove"
+                app:fvShowIconNext="false"
+                app:fvTextFunction="@string/remove" />
+
+            <com.ezteam.windowslauncher.widget.ItemFunctionView
+                android:id="@+id/item_rename"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:fvIconResId="@drawable/ic_rename"
+                app:fvShowIconNext="false"
+                app:fvTextFunction="@string/rename" />
+
+            <com.ezteam.windowslauncher.widget.ItemFunctionView
+                android:id="@+id/item_lock_app"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:fvIconResId="@drawable/ic_lock_app"
+                app:fvShowIconNext="false"
+                app:fvTextFunction="@string/lock_app" />
+
+            <com.ezteam.windowslauncher.widget.ItemFunctionView
+                android:id="@+id/item_unlock_app"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:fvIconResId="@drawable/ic_unlock_app"
+                app:fvShowIconNext="false"
+                app:fvTextFunction="@string/unlock_app" />
+
+            <com.ezteam.windowslauncher.widget.ItemFunctionView
+                android:id="@+id/item_properties"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:fvIconResId="@drawable/ic_properties"
+                app:fvShowIconNext="false"
+                app:fvTextFunction="@string/properties" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
